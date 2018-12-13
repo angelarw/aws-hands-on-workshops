@@ -25,16 +25,22 @@ A curated collection of hands-on workshops for learning AWS
 
 | Name | Description | Link |  
 |------|-------------|------|
-|IOT Analytics| Configure AWS IoT Core to ingest stream data from AWS Device Simulator, process batch data using Amazon ECS, build an analytics pipeline using AWS IOT Analytics, visualize the data using Amazon QuickSight, and perform machine learning using Jupyter Notebooks | [https://s3.amazonaws.com/iotareinvent18/Workshop.html](https://s3.amazonaws.com/iotareinvent18/Workshop.html)
+|IOT Analytics| Configure AWS IoT Core to ingest stream data from AWS Device Simulator, process batch data using Amazon ECS, build an analytics pipeline using AWS IOT Analytics, visualize the data using Amazon QuickSight, and perform machine learning using Jupyter Notebooks | [https://s3.amazonaws.com/iotareinvent18/Workshop.html](https://s3.amazonaws.com/iotareinvent18/Workshop.html)|
 
 ## ML 
 
 | Name | Description | Link |  
 |------|-------------|------|
-| SageMaker Workshop |  <ul><li> Intro to SageMaker </li><li>  Distributed Training with SageMaker's Built-in Algorithms  </li></ul> | [https://github.com/awslabs/amazon-sagemaker-workshop](https://github.com/awslabs/amazon-sagemaker-workshop)
-
+| SageMaker Workshop |  <ul><li> Intro to SageMaker </li><li>  Distributed Training with SageMaker's Built-in Algorithms  </li></ul> | [https://github.com/awslabs/amazon-sagemaker-workshop](https://github.com/awslabs/amazon-sagemaker-workshop)|
+| Deepracer workshop | A hands-on workshop to introduce developers to AWS DeepRacer | [https://github.com/aws-samples/aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops)|
 
 ## Storage 
 | Name | Description | Link |  
 |------|-------------|------|
-| EFS workshop| This workshop designed to help you better understand the performance characteristics of Amazon Elastic File System (Amazon EFS) and how parallelism, I/O size, and Amazon EC2 instance types affects file system IOPS and throughput. You will also gain an understanding of the different performance and throughput modes a file system can be using. | [https://github.com/aws-samples/amazon-efs-workshop](https://github.com/aws-samples/amazon-efs-workshop)
+| EFS workshop| This workshop designed to help you better understand the performance characteristics of Amazon Elastic File System (Amazon EFS) and how parallelism, I/O size, and Amazon EC2 instance types affects file system IOPS and throughput. You will also gain an understanding of the different performance and throughput modes a file system can be using. | [https://github.com/aws-samples/amazon-efs-workshop](https://github.com/aws-samples/amazon-efs-workshop)|
+
+
+## Security
+| Name | Description | Link |  
+|------|-------------|------|
+| AWS Security Workshops| Collection of security oriented workshops that will guide you through prepared scenarios that represent common use cases and operational tasks and give you hands on experience with a wide range of AWS services | [https://github.com/aws-samples/aws-security-workshops](https://github.com/aws-samples/aws-security-workshops)| 
