@@ -21,6 +21,12 @@ A curated collection of hands-on workshops for learning AWS
 | EKS workshop|  <ul><li> deploy an application consisting of microservices </li><li> deploy the Kubernetes Dashboard </li><li> deploy packages using Helm </li><li> deploy a centralized logging infrastructure </li><li> Configure Automatic scaling of our pods and worker nodes </li> <li>... </li></ul> | [https://eksworkshop.com/](https://eksworkshop.com/)
 | Monte Carlo Simulation using AWS Batch | Build a container using Cloud9, store the container in ECR, then use AWS batch to schedule  | [https://github.com/angelarw/aws-batch-monte-carlo-workshop](https://github.com/angelarw/aws-batch-monte-carlo-workshop) |  
 
+## Content delivery
+| Name | Description | Link |  
+|------|-------------|------|
+| Lambda@Edge | Use Lambda@Edge for security, content generation, Pretty URLs, customizing content, etc.| [https://github.com/aws-samples/aws-lambda-edge-workshops](https://github.com/aws-samples/aws-lambda-edge-workshops)|
+
+
 ## IOT 
 
 | Name | Description | Link |  
