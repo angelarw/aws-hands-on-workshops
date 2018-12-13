@@ -1,12 +1,12 @@
 # aws-hands-on-workshops
 A curated collection of hands-on workshops for learning AWS
 
-## General 
+## Cloud Native App Development 
 
 | Name | Description | Link |  
 |------|-------------|------|
 | Modern Application on AWS | How to build modern applications on top of AWS. You will build a sample website that leverages infrastructure as code, containers, serverless code functions, CI/CD, and more (language choice: Java, .NET, Python) | [https://github.com/aws-samples/aws-modern-application-workshop](https://github.com/aws-samples/aws-modern-application-workshop) | 
-
+|AWS Developer workshop|Get started on Serverless or Container development using AWS Developer Tools.|[https://github.com/aws-samples/aws-developer-workshop](https://github.com/aws-samples/aws-developer-workshop)
 
 ## Serverless 
 
@@ -33,6 +33,7 @@ A curated collection of hands-on workshops for learning AWS
 |------|-------------|------|
 | SageMaker Workshop |  <ul><li> Intro to SageMaker </li><li>  Distributed Training with SageMaker's Built-in Algorithms  </li></ul> | [https://github.com/awslabs/amazon-sagemaker-workshop](https://github.com/awslabs/amazon-sagemaker-workshop)|
 | Deepracer workshop | A hands-on workshop to introduce developers to AWS DeepRacer | [https://github.com/aws-samples/aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops)|
+| Build a customer service chatbot with Amazon Lex| Build informational and transactional lex bots and integrate it with Twilio SMS/Amazon Connect| [https://github.com/aws-samples/amazon-lex-customerservice-workshop](https://github.com/aws-samples/amazon-lex-customerservice-workshop)|
 
 ## Storage 
 | Name | Description | Link |  
