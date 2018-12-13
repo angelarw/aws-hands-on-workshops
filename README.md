@@ -27,7 +27,7 @@ A curated collection of hands-on workshops for learning AWS
 |------|-------------|------|
 |IOT Analytics| Configure AWS IoT Core to ingest stream data from AWS Device Simulator, process batch data using Amazon ECS, build an analytics pipeline using AWS IOT Analytics, visualize the data using Amazon QuickSight, and perform machine learning using Jupyter Notebooks | [https://s3.amazonaws.com/iotareinvent18/Workshop.html](https://s3.amazonaws.com/iotareinvent18/Workshop.html)|
 
-## ML 
+## AI/ML 
 
 | Name | Description | Link |  
 |------|-------------|------|
@@ -45,3 +45,8 @@ A curated collection of hands-on workshops for learning AWS
 | Name | Description | Link |  
 |------|-------------|------|
 | AWS Security Workshops| Collection of security oriented workshops that will guide you through prepared scenarios that represent common use cases and operational tasks and give you hands on experience with a wide range of AWS services | [https://awssecworkshops.com/](https://awssecworkshops.com/)| 
+
+## Data Analytics
+| Name | Description | Link |  
+|------|-------------|------|
+| Serverless Data Lake Workshop| create a serverless data lake that combines the data from an e-commerce website, customer profile database, and demographic data, using Glue, Athena, QuickSight | [https://github.com/aws-samples/amazon-serverless-datalake-workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
