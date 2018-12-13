@@ -32,3 +32,9 @@ A curated collection of hands-on workshops for learning AWS
 | Name | Description | Link |  
 |------|-------------|------|
 | SageMaker Workshop |  <ul><li> Intro to SageMaker </li><li>  Distributed Training with SageMaker's Built-in Algorithms  </li></ul> | [https://github.com/awslabs/amazon-sagemaker-workshop](https://github.com/awslabs/amazon-sagemaker-workshop)
+
+
+## Storage 
+| Name | Description | Link |  
+|------|-------------|------|
+| EFS workshop| This workshop designed to help you better understand the performance characteristics of Amazon Elastic File System (Amazon EFS) and how parallelism, I/O size, and Amazon EC2 instance types affects file system IOPS and throughput. You will also gain an understanding of the different performance and throughput modes a file system can be using. | [https://github.com/aws-samples/amazon-efs-workshop](https://github.com/aws-samples/amazon-efs-workshop)
