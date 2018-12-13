@@ -43,4 +43,4 @@ A curated collection of hands-on workshops for learning AWS
 ## Security
 | Name | Description | Link |  
 |------|-------------|------|
-| AWS Security Workshops| Collection of security oriented workshops that will guide you through prepared scenarios that represent common use cases and operational tasks and give you hands on experience with a wide range of AWS services | [https://github.com/aws-samples/aws-security-workshops](https://github.com/aws-samples/aws-security-workshops)| 
+| AWS Security Workshops| Collection of security oriented workshops that will guide you through prepared scenarios that represent common use cases and operational tasks and give you hands on experience with a wide range of AWS services | [https://awssecworkshops.com/](https://awssecworkshops.com/)| 
