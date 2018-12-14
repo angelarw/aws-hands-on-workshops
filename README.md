@@ -29,7 +29,6 @@ Quick links to
 |------|-------------|------|
 |  Wild Rydes Serverless Workshop Series |  A collection of workshops in the theme of unicorn rideshare company <ul><li> Web Application </li><li> Devops </li><li> Security </li><li>   Multi Region </li><li>  Workflow  </li><li>  Data processing   </li></ul>   | [https://github.com/aws-samples/aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops) | 
 |  Serverless Image Processing Workflow with AWS Step Functions | Build a serverless image processing workflow step-by-step using AWS Step Functions| [https://github.com/aws-samples/lambda-refarch-imagerecognition/tree/master/Workshop](https://github.com/aws-samples/lambda-refarch-imagerecognition/tree/master/Workshop) |
-| Zombie Microservices Workshop | The Zombie Microservices Workshop introduces the basics of building serverless applications using AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Cognito, Amazon SNS, and other AWS services. | [https://github.com/aws-samples/aws-lambda-zombie-workshop](https://github.com/aws-samples/aws-lambda-zombie-workshop)
 
 ## Containers <a name="Containers"></a>
 | Name | Description | Link |  
