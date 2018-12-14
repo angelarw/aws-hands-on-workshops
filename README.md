@@ -12,6 +12,7 @@ Quick links to
 * [**Storage**](#Storage)
 * [**Security**](#Security)
 * [**Data**](#Analytics)
+* [**Alexa**](#Alexa)
 
 ##  <a name="CNAD"></a> Cloud Native App Development
 | Name | Description | Link |  
@@ -76,3 +77,8 @@ Quick links to
 | Name | Description | Link |  
 |------|-------------|------|
 | Serverless Data Lake Workshop| create a serverless data lake that combines the data from an e-commerce website, customer profile database, and demographic data, using Glue, Athena, QuickSight | [https://github.com/aws-samples/amazon-serverless-datalake-workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
+
+## <a name="Alexa"></a> Alexa
+| Name | Description | Link |  
+|------|-------------|------|
+| Alexa Salesforce Notes| how to build a private Alexa skill to access Salesforce data  | [https://github.com/alexa/alexa-salesforce-notes-sample](https://github.com/alexa/alexa-salesforce-notes-sample)
