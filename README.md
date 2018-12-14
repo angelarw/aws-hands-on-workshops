@@ -19,9 +19,14 @@ Quick links to
 |------|-------------|------|
 | Modern Application on AWS | How to build modern applications on top of AWS. You will build a sample website that leverages infrastructure as code, containers, serverless code functions, CI/CD, and more (language choice: Java, .NET, Python) | [https://github.com/aws-samples/aws-modern-application-workshop](https://github.com/aws-samples/aws-modern-application-workshop) | 
 |AWS Developer workshop|Get started on Serverless or Container development using AWS Developer Tools.|[https://github.com/aws-samples/aws-developer-workshop](https://github.com/aws-samples/aws-developer-workshop) |
-|Advanced DevOps Practices for AWS | Prescriptive guidance on how to build proper DevOps solutions in AWS using common patterns and best practices. | [http://aws-devops-workshop-2017.s3-website-us-west-2.amazonaws.com/labs.html](http://aws-devops-workshop-2017.s3-website-us-west-2.amazonaws.com/labs.html)
+|Advanced DevOps Practices for AWS | Prescriptive guidance on how to build proper DevOps solutions in AWS using common patterns and best practices. | [http://aws-devops-workshop-2017.s3-website-us-west-2.amazonaws.com/labs.html](http://aws-devops-workshop-2017.s3-website-us-west-2.amazonaws.com/labs.html)|
+| AWS Cloud Development Kit (CDK) workshop | <ul><li>Create new CDK applications. </li><li> Define your app’s infrastructure using the AWS Construct Library </li><li> Deploy your CDK apps to your AWS account </li><li> Define your own reusable constructs </li><li> Consume constructs published by other people  </li></ul> | [https://cdkworkshop.com/](https://cdkworkshop.com/)|
+
+
 
 ## <a name="Serverless"></a> Serverless
+
+
 
 
 | Name | Description | Link |  
