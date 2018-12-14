@@ -1,7 +1,20 @@
 # aws-hands-on-workshops
 A curated collection of hands-on workshops for learning AWS
 
-## Cloud Native App Development 
+Quick links to 
+
+* [**Cloud Native App Development**](#CNAD)
+* [**Serverless**](#Serverless)
+* [**Containers**](#Containers)
+* [**Content delivery**](#Content_delivery)
+* [**IOT**](#IOT)
+* [**AI/ML**](#AIML)
+* [**IOT**](#IOT)
+* [**Storage**](#Storage)
+* [**Security**](#Security)
+* [**Data**](#Analytics)
+
+## Cloud Native App Development <a name="CNAD"></a>
 
 | Name | Description | Link |  
 |------|-------------|------|
@@ -9,7 +22,8 @@ A curated collection of hands-on workshops for learning AWS
 |AWS Developer workshop|Get started on Serverless or Container development using AWS Developer Tools.|[https://github.com/aws-samples/aws-developer-workshop](https://github.com/aws-samples/aws-developer-workshop) |
 |Advanced DevOps Practices for AWS | Prescriptive guidance on how to build proper DevOps solutions in AWS using common patterns and best practices. | [http://aws-devops-workshop-2017.s3-website-us-west-2.amazonaws.com/labs.html](http://aws-devops-workshop-2017.s3-website-us-west-2.amazonaws.com/labs.html)
 
-## Serverless 
+## Serverless <a name="Serverless"></a>
+
 
 | Name | Description | Link |  
 |------|-------------|------|
@@ -17,7 +31,7 @@ A curated collection of hands-on workshops for learning AWS
 |  Serverless Image Processing Workflow with AWS Step Functions | Build a serverless image processing workflow step-by-step using AWS Step Functions| [https://github.com/aws-samples/lambda-refarch-imagerecognition/tree/master/Workshop](https://github.com/aws-samples/lambda-refarch-imagerecognition/tree/master/Workshop) |
 | Zombie Microservices Workshop | The Zombie Microservices Workshop introduces the basics of building serverless applications using AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Cognito, Amazon SNS, and other AWS services. | [https://github.com/aws-samples/aws-lambda-zombie-workshop](https://github.com/aws-samples/aws-lambda-zombie-workshop)
 
-## Containers
+## Containers <a name="Containers"></a>
 | Name | Description | Link |  
 |------|-------------|------|
 | ECS workshop| Amazon ECS Workshop for Fargate.  Build out a 3-tier microservice stack using CI/CD on Fargate. | [https://ecsworkshop.com/](https://ecsworkshop.com/) |
@@ -26,19 +40,20 @@ A curated collection of hands-on workshops for learning AWS
 | AWS workshop for Kubernetes| This is a self-paced workshop designed for Development and Operations teams who would like to leverage Kubernetes on Amazon Web Services (AWS) | [https://github.com/aws-samples/aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) |
 | Monte Carlo Simulation using AWS Batch | Build a container using Cloud9, store the container in ECR, then use AWS batch to schedule  | [https://github.com/angelarw/aws-batch-monte-carlo-workshop](https://github.com/angelarw/aws-batch-monte-carlo-workshop) |  
 
-## Content delivery
+## Content delivery <a name="Content_delivery"></a>
 | Name | Description | Link |  
 |------|-------------|------|
 | Lambda@Edge | Use Lambda@Edge for security, content generation, Pretty URLs, customizing content, etc.| [https://github.com/aws-samples/aws-lambda-edge-workshops](https://github.com/aws-samples/aws-lambda-edge-workshops)|
 
 
-## IOT 
+## IOT <a name="IOT"></a>
+
 
 | Name | Description | Link |  
 |------|-------------|------|
 |IOT Analytics| Configure AWS IoT Core to ingest stream data from AWS Device Simulator, process batch data using Amazon ECS, build an analytics pipeline using AWS IOT Analytics, visualize the data using Amazon QuickSight, and perform machine learning using Jupyter Notebooks | [https://s3.amazonaws.com/iotareinvent18/Workshop.html](https://s3.amazonaws.com/iotareinvent18/Workshop.html)|
 
-## AI/ML 
+## AI/ML <a name="AIML"></a>
 
 | Name | Description | Link |  
 |------|-------------|------|
@@ -47,19 +62,20 @@ A curated collection of hands-on workshops for learning AWS
 | Build a customer service chatbot with Amazon Lex| Build informational and transactional lex bots and integrate it with Twilio SMS/Amazon Connect| [https://github.com/aws-samples/amazon-lex-customerservice-workshop](https://github.com/aws-samples/amazon-lex-customerservice-workshop)|
 | DeepLens Workshop | Sample projects to run on your DeepLens | [https://github.com/mahendrabairagi/DeeplensWorkshop](https://github.com/mahendrabairagi/DeeplensWorkshop)|
 
-## Storage 
+## Storage  <a name="Storage"></a>
 | Name | Description | Link |  
 |------|-------------|------|
 | EFS workshop| This workshop designed to help you better understand the performance characteristics of Amazon Elastic File System (Amazon EFS) and how parallelism, I/O size, and Amazon EC2 instance types affects file system IOPS and throughput. You will also gain an understanding of the different performance and throughput modes a file system can be using. | [https://github.com/aws-samples/amazon-efs-workshop](https://github.com/aws-samples/amazon-efs-workshop)|
 | AWS Hybrid Storage Workshop | Work with storage gateway in both volume and file mode | [https://github.com/aws-samples/aws-hybrid-storage-workshop](https://github.com/aws-samples/aws-hybrid-storage-workshop) |
 
 
-## Security
+## Security <a name="Security"></a>
 | Name | Description | Link |  
 |------|-------------|------|
 | AWS Security Workshops| Collection of security oriented workshops that will guide you through prepared scenarios that represent common use cases and operational tasks and give you hands on experience with a wide range of AWS services | [https://awssecworkshops.com/](https://awssecworkshops.com/)| 
 
-## Data Analytics
+## Data Analytics <a name="Analytics"></a>
+
 | Name | Description | Link |  
 |------|-------------|------|
 | Serverless Data Lake Workshop| create a serverless data lake that combines the data from an e-commerce website, customer profile database, and demographic data, using Glue, Athena, QuickSight | [https://github.com/aws-samples/amazon-serverless-datalake-workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
