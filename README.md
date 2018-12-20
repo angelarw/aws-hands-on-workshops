@@ -36,6 +36,9 @@ Quick links to
 |------|-------------|------|
 |  Wild Rydes Serverless Workshop Series |  A collection of workshops in the theme of unicorn rideshare company <ul><li> Web Application </li><li> Devops </li><li> Security </li><li>   Multi Region </li><li>  Workflow  </li><li>  Data processing   </li></ul>   | [https://github.com/aws-samples/aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops) | 
 |  Serverless Image Processing Workflow with AWS Step Functions | Build a serverless image processing workflow step-by-step using AWS Step Functions| [https://github.com/aws-samples/lambda-refarch-imagerecognition/tree/master/Workshop](https://github.com/aws-samples/lambda-refarch-imagerecognition/tree/master/Workshop) |
+| Managing Long Lived Transactions with AWS Step Functions | This workshop help you implement Saga design pattern with AWS Step Functions. It provides a progressive experience as you build an Order Processing service, design transactions and rollbacks for every business activity that can possibly go wrong and clean up itself. | [https://github.com/aws-samples/aws-step-functions-long-lived-transactions](https://github.com/aws-samples/aws-step-functions-long-lived-transactions)
+
+
 
 ## <a name="Containers"></a> Containers
 | Name | Description | Link |  
