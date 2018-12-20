@@ -98,3 +98,4 @@ Quick links to
 | Name | Description | Link |  
 |------|-------------|------|
 | Alexa Salesforce Notes| how to build a private Alexa skill to access Salesforce data  | [https://github.com/alexa/alexa-salesforce-notes-sample](https://github.com/alexa/alexa-salesforce-notes-sample)
+| Serverless Voice Powered Analytics | In this workshop, you will build an Alexa skill that queries metrics from a data lake, which you will define. You will uncover Key Performance Indicators (KPIs) from a data set, build and automate queries for measuring those KPIs, and access them via Alexa voice-enabled devices.| [https://github.com/awslabs/voice-powered-analytics](https://github.com/awslabs/voice-powered-analytics)
