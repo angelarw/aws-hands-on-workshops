@@ -22,6 +22,9 @@ Quick links to
 |Advanced DevOps Practices for AWS | Prescriptive guidance on how to build proper DevOps solutions in AWS using common patterns and best practices. | [http://aws-devops-workshop-2017.s3-website-us-west-2.amazonaws.com/labs.html](http://aws-devops-workshop-2017.s3-website-us-west-2.amazonaws.com/labs.html)|
 | AWS Cloud Development Kit (CDK) workshop | <ul><li>Create new CDK applications. </li><li> Define your app’s infrastructure using the AWS Construct Library </li><li> Deploy your CDK apps to your AWS account </li><li> Define your own reusable constructs </li><li> Consume constructs published by other people  </li></ul> | [https://cdkworkshop.com/](https://cdkworkshop.com/)|
 |Build a Photo-Sharing Web App with AWS Amplify and AWS AppSync| Use AWS Amplify, React and AWS AppSync to build a photosharing app. | [https://amplify-workshop.go-aws.com/](https://amplify-workshop.go-aws.com/)
+| Building Web Applications with AWS Amplify & React |  Showcases how to use AWS Amplify & React to build a web app including: add Authentication, add REST API with Lambda, GraphQL API with AWS AppSync, adding storage with Amazon S3, adding analytics, manage multiple environments, and deploy via the Amplify Console | [https://github.com/dabit3/aws-amplify-workshop-react](https://github.com/dabit3/aws-amplify-workshop-react) | 
+| Building Mobile Applications with React Native & AWS Amplify |  Showcases how to use AWS Amplify & React Native to build a mobile app including: add authentication, add REST API with Lambda, GraphQL API with AWS AppSync, adding storage with Amazon S3, adding analytics | [https://github.com/dabit3/aws-amplify-workshop-react-native](https://github.com/dabit3/aws-amplify-workshop-react-native) | 
+
 
 ## <a name="Serverless"></a> Serverless
 
