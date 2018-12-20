@@ -10,6 +10,7 @@ Quick links to
 * [**IOT**](#IOT)
 * [**AI/ML**](#AIML)
 * [**Storage**](#Storage)
+* [**Databases**](#Databases)
 * [**Security**](#Security)
 * [**Data**](#Analytics)
 * [**Alexa**](#Alexa)
@@ -41,7 +42,7 @@ Quick links to
 |------|-------------|------|
 | ECS workshop| Amazon ECS Workshop for Fargate.  Build out a 3-tier microservice stack using CI/CD on Fargate. | [https://ecsworkshop.com/](https://ecsworkshop.com/) |
 | ECS Cats N Dogs workshop| This is self-paced workshop designed to allow developers and system administrators to get hands on with Amazon Elastic Container Service concepts | [https://github.com/aws-samples/amazon-ecs-catsndogs-workshop](https://github.com/aws-samples/amazon-ecs-catsndogs-workshop)
-| EKS workshop|  <ul><li> deploy an application consisting of microservices </li><li> deploy the Kubernetes Dashboard </li><li> deploy packages using Helm </li><li> deploy a centralized logging infrastructure </li><li> Configure Automatic scaling of our pods and worker nodes </li> <li>... </li></ul> | [https://eksworkshop.com/](https://eksworkshop.com/) |
+| EKS workshop|  <ul><li> deploy an application consisting of microservices </li><li> deploy the Kubernetes Dashboard </li><li> deploy packages using Helm </li><li> deploy a centralized logging infrastructure </li><li> Configure Automatic scaling of pods and worker nodes </li> <li>... Istio, Prometheus, logging with EFK, ...</li></ul> | [https://eksworkshop.com/](https://eksworkshop.com/) |
 | AWS workshop for Kubernetes| This is a self-paced workshop designed for Development and Operations teams who would like to leverage Kubernetes on Amazon Web Services (AWS) | [https://github.com/aws-samples/aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) |
 | Monte Carlo Simulation using AWS Batch | Build a container using Cloud9, store the container in ECR, then use AWS batch to schedule  | [https://github.com/angelarw/aws-batch-monte-carlo-workshop](https://github.com/angelarw/aws-batch-monte-carlo-workshop) |  
 
@@ -73,6 +74,11 @@ Quick links to
 | EFS workshop| This workshop designed to help you better understand the performance characteristics of Amazon Elastic File System (Amazon EFS) and how parallelism, I/O size, and Amazon EC2 instance types affects file system IOPS and throughput. You will also gain an understanding of the different performance and throughput modes a file system can be using. | [https://github.com/aws-samples/amazon-efs-workshop](https://github.com/aws-samples/amazon-efs-workshop)|
 | AWS Hybrid Storage Workshop | Work with storage gateway in both volume and file mode | [https://github.com/aws-samples/aws-hybrid-storage-workshop](https://github.com/aws-samples/aws-hybrid-storage-workshop) |
 
+
+## <a name="Databases"></a> Databases
+| Name | Description | Link |  
+|------|-------------|------|
+| Build a  Calorie Tracker with Neptune and AppSync | This workshop builds a complete Calorie Tracker Intake solution by using the latest of Web Apps services, libraries and primitives. It's designed as a self-paced lab which progressively creates the backend, API schema, front-end and provides a bonus module for those looking for practical examples of how to utilize graph database for recommendations. | [https://github.com/aws-samples/aws-appsync-calorie-tracker-workshop](https://github.com/aws-samples/aws-appsync-calorie-tracker-workshop) |
 
 ## <a name="Security"></a> Security
 | Name | Description | Link |  
