@@ -11,6 +11,7 @@ Quick links to
 * [**AI/ML**](#AIML)
 * [**Storage**](#Storage)
 * [**Databases**](#Databases)
+* [**BlockChain**](#BlockChain)
 * [**Security**](#Security)
 * [**Data**](#Analytics)
 * [**Alexa**](#Alexa)
@@ -82,6 +83,11 @@ Quick links to
 | Name | Description | Link |  
 |------|-------------|------|
 | Build a  Calorie Tracker with Neptune and AppSync | This workshop builds a complete Calorie Tracker Intake solution by using the latest of Web Apps services, libraries and primitives. It's designed as a self-paced lab which progressively creates the backend, API schema, front-end and provides a bonus module for those looking for practical examples of how to utilize graph database for recommendations. | [https://github.com/aws-samples/aws-appsync-calorie-tracker-workshop](https://github.com/aws-samples/aws-appsync-calorie-tracker-workshop) |
+
+##  <a name="BlockChain"></a> BlockChain
+| Name | Description | Link |  
+|------|-------------|------|
+| Use Amazon Managed Blockchain to track non-profit donations | This workshop builds a Hyperledger Fabric blockchain network using Amazon Managed Blockchain. Once the Fabric network has been created, you will deploy a 3-tier application that uses the Fabric network to track donations to a non-profit organisation, and track how those donations are spent by the non-profit. | https://github.com/aws-samples/non-profit-blockchain|
 
 ## <a name="Security"></a> Security
 | Name | Description | Link |  
