@@ -71,6 +71,7 @@ Quick links to
 | Deepracer workshop | A hands-on workshop to introduce developers to AWS DeepRacer | [https://github.com/aws-samples/aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops)|
 | Build a customer service chatbot with Amazon Lex| Build informational and transactional lex bots and integrate it with Twilio SMS/Amazon Connect| [https://github.com/aws-samples/amazon-lex-customerservice-workshop](https://github.com/aws-samples/amazon-lex-customerservice-workshop)|
 | DeepLens Workshop | Sample projects to run on your DeepLens | [https://github.com/mahendrabairagi/DeeplensWorkshop](https://github.com/mahendrabairagi/DeeplensWorkshop)|
+| ML Ops workshop |  Use Code* services and sagemaker to build a ML devops pipeline| [https://github.com/awslabs/amazon-sagemaker-mlops-workshop](https://github.com/awslabs/amazon-sagemaker-mlops-workshop)
 
 ## <a name="Storage"></a> Storage
 | Name | Description | Link |  
