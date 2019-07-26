@@ -72,7 +72,8 @@ Quick links to
 | Build a customer service chatbot with Amazon Lex| Build informational and transactional lex bots and integrate it with Twilio SMS/Amazon Connect| [https://github.com/aws-samples/amazon-lex-customerservice-workshop](https://github.com/aws-samples/amazon-lex-customerservice-workshop)|
 | DeepLens Workshop | Sample projects to run on your DeepLens | [https://github.com/mahendrabairagi/DeeplensWorkshop](https://github.com/mahendrabairagi/DeeplensWorkshop)|
 | ML Ops workshop |  Use Code* services and sagemaker to build a ML devops pipeline| [https://github.com/awslabs/amazon-sagemaker-mlops-workshop](https://github.com/awslabs/amazon-sagemaker-mlops-workshop)
-| AWS NLP services workshop  | Set up a processing pipeline that transcribes, translates and analyzes customer call recordings. | [https://ai-services.labgui.de/](https://ai-services.labgui.de/)
+| AWS NLP services workshop  | Set up a processing pipeline that transcribes, translates and analyzes customer call recordings. | [https://ai-services.labgui.de/](https://ai-services.labgui.de/) 
+| Build, Train, and Deploy a Text Classification Model | The goal of this lab is to work with a public data set to build, train, and deploy a Machine Learning (ML) model from beginning to end. | [http://d3doqww75uq74w.cloudfront.net/lab/index.html](http://d3doqww75uq74w.cloudfront.net/lab/index.html)
 
 ## <a name="Storage"></a> Storage
 | Name | Description | Link |  
